@@ -8,3 +8,12 @@ while (p <= 10) {
 
     p++;
 }
+
+var p = 10;
+
+while (p >= 0) {
+
+    console.log(p);
+
+    p--;
+}
